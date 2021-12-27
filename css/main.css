@@ -19,12 +19,19 @@ h1 {
 	text-shadow: 3px 3px 1px black;
 }
 
-h3 {
-  font-size: 20px;
-  text-align: left;
+h2 {
+  font-size: 40px;
+  //text-align: center;
   margin: 0;
-  padding: 10px 0;
+  padding: 20px 0;
   color: #00539F;
+  //text-shadow: 3px 3px 1px black;
+}
+
+hr {
+  /* установим цвет и высоту */
+  border: 5px solid #00539F;
+  border-bottom-width: 0;
 }
 
 img {
